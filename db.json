@@ -82,5 +82,6 @@
       "imagem": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3241966:1654811417/Gatos.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=ba9cafc"
     }
   ],
-  "users": [{ "email": "fabio@gmail.com", "password": "$2a$10$ybHevL1aR2X/.2vfYNwOK.UOWcUG386/SKCKSrDS4lPpVXancG6KK", "id": 1 }]
+  "users": [{ "email": "fabio@gmail.com", "password": "$2a$10$ybHevL1aR2X/.2vfYNwOK.UOWcUG386/SKCKSrDS4lPpVXancG6KK", "id": 1 }],
+  "users_admin": [{ "email": "admin@gmail.com", "password": "$2a$10$ybHevL1aR2X/.2vfYNwOK.UOWcUG386/SKCKSrDS4lPpVXancG6KK", "userID": 1 }]
 }
